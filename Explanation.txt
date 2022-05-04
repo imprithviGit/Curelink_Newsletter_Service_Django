@@ -1,0 +1,13 @@
+Hey there Curelink Team,
+
+Glad I reached to the solution submission round. Hope you guys like my solution and if not let me know how to do better.
+
+Here is a simple newsletter web app I developed with Django [in 3 hours :)]. Because I have a sem exam tomorrow.
+
+Improvements:-
+
+The improvements I could have done is probably adding more advanced features in it, which was again a time constraint for me.
+
+
+Thanks and Regards
+Prithviraj Maity
